@@ -1,4 +1,4 @@
-<h1>
+<h1 align="left">
     <a href="https://emanuelstefancu.com/"><img align="left" src="https://emanuelstefancu.files.wordpress.com/2021/10/ganduri-01.jpg" alt="Namaste 🙏"></a>
 		Hello, friend. I'm @iYakuza
 </h1>
@@ -36,7 +36,7 @@ https://emanuelstefancu.com/
 ----
 
 <br>
-<h1>
+<h1 align="left">
     <a href="https://emanuelstefancu.com/"><img align="left" src="https://emanuelstefancu.files.wordpress.com/2021/10/this-notion-01.jpg" alt="Namaste 🙏"></a>
 		My to do list
 </h1>
@@ -55,7 +55,7 @@ https://emanuelstefancu.com/
 ----
 
 <br>
-<h1>
+<h1 align="right">
     <a href="https://emanuelstefancu.com/2021/08/04/from-man-import-monkey/"><img align="right" src="https://emanuelstefancu.files.wordpress.com/2021/10/together-01.jpg" alt="Namaste 🙏"></a>
 		Closing note
 </h1>
