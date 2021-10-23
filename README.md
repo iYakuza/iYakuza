@@ -13,6 +13,7 @@ https://emanuelstefancu.com/
 11
 <br><br>
 </p>
+<br>
 
 ----
 
@@ -30,6 +31,7 @@ https://emanuelstefancu.com/
 💼 Officially, I activated in HR; afterwards, Business Analyst, back to HR and currently Payroll
 <br><br>
 </p>
+<br><br>
 
 ----
 
@@ -54,11 +56,11 @@ https://emanuelstefancu.com/
 
 <br>
 <h1>
-    <a href="https://emanuelstefancu.com/2021/08/04/from-man-import-monkey/"><img align="left" src="https://emanuelstefancu.files.wordpress.com/2021/10/together-01.jpg" alt="Namaste 🙏"></a>
+    <a href="https://emanuelstefancu.com/2021/08/04/from-man-import-monkey/"><img align="right" src="https://emanuelstefancu.files.wordpress.com/2021/10/together-01.jpg" alt="Namaste 🙏"></a>
 		Closing note
 </h1>
 
-<p align="left">
+<p align="right">
 📖 Have a read
 <br>
 https://emanuelstefancu.com/2021/08/04/from-man-import-monkey/
